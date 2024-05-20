@@ -3,8 +3,9 @@
 ### Web and Mobile Developer
 ------------------------
 
-#### 🏔️  Based in Colorado
-#### 🚀  Currently working on [white-label gamification software at Lucra](http://side.com)
+#### 🏔️ Based in Colorado
+#### 🚀 Currently working on White-Label Gamification Software at  [Lucra](https://lucrasports.com)
+#### 📝 See [past experience](https://www.linkedin.com/in/gentryriggen/)
 
 <a href="https://www.github.com/gentryriggen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gentryriggen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -27,7 +28,7 @@ src="https://img.shields.io/github/followers/gentryriggen?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/gentryriggen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gentryriggen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/1767285/gentryriggen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/gentryriggen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/1767285/gentryriggen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
