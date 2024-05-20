@@ -1,11 +1,10 @@
-Hi 👋 My name is Gentry
-=======================
+# Hi 👋, my name is Gentry
 
-Web and Mobile Developer
+### Web and Mobile Developer
 ------------------------
 
-* 🌍  I'm based in Colorado
-* 🚀  I'm currently working on [building a real estate brokerage platform at Side](http://side.com)
+#### 🏔️  Based in Colorado
+#### 🚀  Currently working on [white-label gamification software at Lucra](http://side.com)
 
 <a href="https://www.github.com/gentryriggen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gentryriggen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
