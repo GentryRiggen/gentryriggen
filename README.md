@@ -4,7 +4,7 @@
 ------------------------
 
 #### 🏔️ Based in Colorado
-#### 🚀 Currently building a new software team at [JBREC]([https://lucrasports.com](https://jbrec.com/))
+#### 🚀 Currently building a new software team at [JBREC](https://lucrasports.com](https://jbrec.com/)
 #### 📝 See [past experience](https://www.linkedin.com/in/gentryriggen/)
 
 <a href="https://www.github.com/gentryriggen" target="_blank" rel="noreferrer"><img
